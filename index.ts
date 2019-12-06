@@ -7,6 +7,7 @@ import {CitationIds} from './src/citationIds';
 export {LogType} from './src/logging';
 export {getLogger} from './src/logging';
 export {ICitation} from './src/interfaces/icitation';
+export {Citation} from './src/interfaces/icitation';
 export {IRegion} from './src/interfaces/iregion';
 export {CitationIds} from './src/citationIds';
 
