@@ -8,7 +8,8 @@
   "restart": {
     "exclude": [
       "^data/",
-      ".*dist.*/"
+      ".*dist.*/",
+      "\\.md$"
     ],
     "include": [
       "\\.ts$",
@@ -16,5 +17,5 @@
       "\\.json$"
     ]
   },
-  "throttle": 5000
+  "throttle": 2000
 }
