@@ -1,3 +1,5 @@
+import './src/interfaces/string-ext';
+
 import {LogType} from './src/logging';
 import {getLogger} from './src/logging';
 
@@ -10,6 +12,8 @@ export {CitationIds} from './src/citationIds';
 
 export {formatPlate} from './src/util/licensehelper';
 export {StatesAndProvinces} from './src/util/licensehelper';
+
+export {CompareNumericStrings} from './src/util/string_utils';
 
 let log = getLogger(LogType.app);
 
