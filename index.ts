@@ -12,5 +12,6 @@ export {StatesAndProvinces} from './src/util/licensehelper';
 
 export {CompareNumericStrings} from './src/util/string_utils';
 export {DumpObject} from './src/util/string_utils';
+export {SplitLongLines} from './src/util/string_utils';
 
-log.info(`Module ${process.env.PROJECT_NAME} loaded.`);
+log.info(`Module glenbikes-typescript-test loaded.`);

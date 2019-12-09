@@ -1,7 +1,7 @@
 {
   "name": "glenbikes-typescript-test",
   "description": "a test package with typescript to figure out why I ca't import or declare it.",
-  "version": "0.1.52",
+  "version": "0.1.55",
   "declaration": true,
   "main": "dist/index.js",
   "types": "definitions/index.d.ts",
