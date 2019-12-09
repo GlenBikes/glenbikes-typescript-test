@@ -5,3 +5,4 @@
 definitions/**
 log/**
 .localstore/**
+.v8*
